@@ -1,0 +1,13 @@
+C:\Users\Dark_Cheedar\Desktop\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+C:\Users\Dark_Cheedar\Desktop\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+C:\Users\Dark_Cheedar\Desktop\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+C:\Users\Dark_Cheedar\Desktop\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+C:\Users\Dark_Cheedar\Desktop\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\Dark_Cheedar\Desktop\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\Dark_Cheedar\Desktop\Construtores\obj\Debug\netcoreapp3.1\Construtores.csprojAssemblyReference.cache
+C:\Users\Dark_Cheedar\Desktop\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+C:\Users\Dark_Cheedar\Desktop\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+C:\Users\Dark_Cheedar\Desktop\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Dark_Cheedar\Desktop\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\Dark_Cheedar\Desktop\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\Dark_Cheedar\Desktop\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache
